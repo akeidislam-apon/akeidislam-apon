@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**akeidislam-apon/akeidislam-apon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Md. Akeid Islam Apon**, a Computer Science student passionate about programming, problem solving, and continuous learning.
 
-Here are some ideas to get you started:
+## 💻 Skills & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C & C++
+- Problem Solving
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
+
+## 🚀 Currently Learning
+
+- Data Structures & Algorithms
+- Competitive Programming
+- Software Development
+- Building projects with C++
+
+## 🧩 Problem Solving
+
+I regularly practice programming problems to improve my problem-solving, algorithmic thinking, and coding skills.
+
+- 🔹 [LeetCode](https://leetcode.com/u/Akaied_Apon/)
+- 🔹 [Codeforces](https://codeforces.com/profile/akaiedapon)
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-akeid-islam-apon-1a62aa436/)
+- 💻 [LeetCode](https://leetcode.com/u/Akaied_Apon/)
+- 🏆 [Codeforces](https://codeforces.com/profile/akaiedapon)
+- 📘 [Facebook](https://www.facebook.com/akaiedislam.apon)
+- 📸 [Instagram](https://www.instagram.com/akaied_thespider/)
+
+---
+
+⭐ Thanks for visiting my profile!
