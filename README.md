@@ -84,9 +84,20 @@ More projects will be added here soon!
 
 ## 🏅 Events & Activities
 
-I actively participate in university activities, competitions, events, and extracurricular programs.
+### 🏢 CSE Event Volunteering
+Volunteered in CSE-related events, contributing to event coordination and organizational activities.
 
-More achievements and participation will be added soon.
+### ⚽ Football Tournaments
+Participated in various football tournaments and sporting events, developing teamwork, communication, and leadership skills.
+
+### 🎤 Public Speaking & Event Hosting
+Participated in public speaking and event-hosting activities, gaining experience in communication and audience engagement.
+
+### 🎬 Research & Awareness Activities
+Participated in a research and awareness-related activity involving communication with international participants and contributing to an awareness film.
+
+### 🏢 Computer Club Activities
+Actively involved in university Computer Club activities as a Sub-EC of the Logistics Department.
 
 ---
 
