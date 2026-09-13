@@ -7,7 +7,6 @@ I’m a Computer Science student passionate about **programming, problem solving
 I enjoy solving programming problems, learning Data Structures & Algorithms, and improving my skills through **Codeforces and LeetCode**.
 
 ---
-
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
@@ -18,6 +17,18 @@ I enjoy solving programming problems, learning Data Structures & Algorithms, and
 - 🚀 Always learning and exploring new technologies
 
 ---
+
+## 🎓 Education
+
+### Southeast University
+**Bachelor of Science in Computer Science and Engineering (CSE)**
+
+Currently pursuing my studies with a focus on programming, problem solving, and software development.
+
+---
+
+## 💻 Technical Skills
+
 
 ## 💻 Technical Skills
 
