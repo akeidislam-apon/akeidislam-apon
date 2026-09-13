@@ -69,10 +69,9 @@ I regularly practice programming problems to improve my **problem-solving skills
 
 ## 🏢 Computer Club
 
-### Sub-Executive — Logistics Department
+### Sub-Executive Committee (Sub-EC) — Logistics Department
 
-I contribute to the **Logistics Department** of my university's Computer Club, supporting organizational activities and event management.
-
+Actively contributing to the Logistics Department of my university's Computer Club, supporting event organization, coordination, and other club activities.
 ---
 
 ## 🚀 Projects
