@@ -131,12 +131,11 @@ Actively involved in university Computer Club activities as a Sub-EC of the Logi
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akeid_apon&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akeidislam-apon&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akeid_apon&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akeidislam-apon&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 ### ⭐ Thanks for visiting my profile!
